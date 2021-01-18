@@ -6,13 +6,13 @@ I like to share my knowledge with the broader community. Therefore you will find
 
 I am a Microsoft MVP in Business Applications
 
-[![MVP Profile Benedikt Bergmann](https://msendpointmgr.com/wp-content/uploads/2021/01/mvp-banner-216px.png)](https://mvp.microsoft.com/en-us/PublicProfile/5004113?fullName=Benedikt%20Bergmann){:target="_blank"}
+[![MVP Profile Benedikt Bergmann](https://msendpointmgr.com/wp-content/uploads/2021/01/mvp-banner-216px.png)](https://mvp.microsoft.com/en-us/PublicProfile/5004113?fullName=Benedikt%20Bergmann)
 
 📫 How to reach me:
 
-[Blog](http://benediktbergmann.eu){:target="_blank"}
+[Blog](http://benediktbergmann.eu)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bergmannbene?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bergmannbene){:target="_blank"}
+[![Twitter Follow](https://img.shields.io/twitter/follow/bergmannbene?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bergmannbene)
 
 
 Here are my GitHub stats
