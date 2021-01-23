@@ -6,9 +6,9 @@ I like to share my knowledge with the broader community. Therefore you will find
 
 ## 📫 How to reach me:
 
-![Website](https://img.shields.io/website?label=Blog&up_message=benediktbergmann.eu&url=https%3A%2F%2Fbenediktbergmann.eu)
+[![Website](https://img.shields.io/website?label=Blog&up_message=benediktbergmann.eu&url=https%3A%2F%2Fbenediktbergmann.eu)](https://benediktbergmann.eu)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bergmannbene?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=bergmannbene)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bergmannbene?color=blue&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?screen_name=bergmannbene)
 
 ## 🔢 Stats
 Here are my GitHub stats
